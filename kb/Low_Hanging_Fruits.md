@@ -10,7 +10,9 @@ Kurzbeschreibung zu Low_Hanging_Fruits um ein erstes Verständnis dafür zu scha
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
 
-# Hier ein Beispieltext mit ein paar Verlinkungen
+# Low Hanging Fruits
+
+Low Hanging Fruits bezeichnet Aufgaben, welche mit minimalem Aufwand einen maximalen Erfolg erzielen. Der Begriff stammt aus dem Englischen und bedeut übersetzt in etwa "niedrig hängende Früchte".
 
 Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
 anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
